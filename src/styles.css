@@ -1,0 +1,11 @@
+* {
+}
+body {
+  background-color: rgb(17, 7, 7);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: "3500px";
+  width: "3500px";
+}
